@@ -31,7 +31,5 @@
   "editor.rulers": [80, 100],
   "files.trimTrailingWhitespace": true,
   "files.trimFinalNewlines": true,
-  "editor.formatOnPaste": true,
-  "editor.formatOnSave": true,
   "git.autofetch": true
 }
